@@ -1,0 +1,4 @@
+---
+db_user: pguser
+db_password: pgpassword
+db_name: pgdb
